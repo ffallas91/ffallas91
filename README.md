@@ -54,7 +54,7 @@ Multi-page educational website with **responsive design, dark/light mode, course
 
 ---
 
-*(Add more projects here with links, short descriptions, and screenshots)*  
+
 
 ---
 
