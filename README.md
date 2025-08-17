@@ -62,6 +62,8 @@ Multi-page educational website with **responsive design, dark/light mode, course
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franciny%20Fallas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/franciny-fallas-709253268)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/ffallas91/W3B-Academy) 
+[![Gmail](https://img.shields.io/badge/Email-franciny9116%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciny9116@gmail.com)  
+
 
 ---
 
