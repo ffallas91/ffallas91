@@ -53,6 +53,23 @@ Multi-page educational website with **responsive design, dark/light mode, course
 </p>
 
 ---
+### 🗺️  [ProyectoTurismoFFKN ](https://github.com/ffallas91/ProyectoTurismoFFKN)
+✨ A **tourism-oriented web application** built with **Next.js** to showcase destinations, travel guides, and stunning visuals.  
+🎯 Designed to inspire exploration and connect travellers with unique places.  
+
+
+<p align="center">
+  <img src="./Img/Screenshot (27).png" width="600" alt="Proyecto Turismo Screenshot"/>
+</p>
+<p align="center">
+  <img src="./Img/Screenshot (29).png" width="600" alt="Proyecto Turismo Screenshot"/>
+</p>
+<p align="center">
+  <img src="./Img/Screenshot (30).png" width="600" alt="Proyecto Turismo Screenshot"/>
+</p>
+<p align="center">
+  <img src="./Img/Screenshot (34).png" width="600" alt="Proyecto Turismo Screenshot"/>
+</p>
 
 
 
